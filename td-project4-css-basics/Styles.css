@@ -36,6 +36,7 @@ a{
 
 .avatar {
   width: 230px;
+  border-radius: 5px;
   height: 230px;
   object-fit: cover;
   margin: 70px 50px 0 50px; 
@@ -55,7 +56,8 @@ h1 {
 }
 
 .countryimg img {
-width: 30px; 
+width: 30px;
+border-radius: 2px; 
 padding: 4px 0 0 8px;
 }
 
