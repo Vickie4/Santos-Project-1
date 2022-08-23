@@ -103,12 +103,11 @@ padding: 4px 0 0 8px;
   justify-content: space-between;
   flex-wrap: nowrap;
   margin-left: 100px;
-  margin-bottom: 100px;
   color: #ffffff;
 }
 
 .this {
-  height:300px;
+  height:400px;
 }
 
 .serv {
@@ -181,8 +180,9 @@ font-size: 2em;
 }
 
 .ending .end h2 {
-  padding-bottom: 25px;
- }
+  margin-bottom: 30px;
+}
+
 
 .fa {
   width: 17px;
@@ -225,9 +225,8 @@ font-size: 2em;
 }
 
 .fa-instagram {
-  /* background: #1CD6CE;  */
   color: #1CD6CE;  
-}
+} 
 
 .ending .end p {
   padding-top: 50px;
